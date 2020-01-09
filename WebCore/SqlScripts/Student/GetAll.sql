@@ -1,0 +1,1 @@
+﻿SELECT TOP 4 OIB, Ime, Prezime FROM STUD.Student

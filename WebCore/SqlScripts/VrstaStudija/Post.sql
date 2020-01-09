@@ -1,0 +1,1 @@
+﻿Insert into STUD.VrstaStudija (VrstaStudijaNaziv, VrstaStudijaRazina, VrstaStudijaOznaka, TipStudijskogPrograma) VALUES ( @VrstaStudijaNaziv, @VrstaStudijaRazina, @VrstaStudijaOznaka, @TipStudijskogPrograma )

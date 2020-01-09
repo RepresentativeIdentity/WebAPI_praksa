@@ -1,0 +1,1 @@
+﻿select StudijNaziv, Trajanje, ECTS from STUD.Studij where StudijOznaka = @StudijOznaka
